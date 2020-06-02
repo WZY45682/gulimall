@@ -1,4 +1,4 @@
-package com.atguigu.gulimalll.coupon;
+package com.atguigu.gulimall.coupon;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
